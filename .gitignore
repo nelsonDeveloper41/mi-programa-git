@@ -1,0 +1,52 @@
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de logs
+*.log
+logs/
+
+# Directorios de dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
+
+# Archivos de compilación
+*.class
+*.o
+*.pyc
+__pycache__/
+dist/
+build/
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos específicos del proyecto (ejemplos)
+config.local.js
+secretos.txt
+ignorar_este_archivo.txt
